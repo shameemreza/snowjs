@@ -2,7 +2,7 @@
  * SnowJS
  * @author Shameem Reza
  *
- * Copyright (c) 2015 Shameem Reza, http://shameemreza.com
+ * Copyright (c) 2015 Shameem Reza, http://www.shameemreza.com
  */
 (function() {
     function k(a, b, c) {
